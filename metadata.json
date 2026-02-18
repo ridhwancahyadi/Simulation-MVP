@@ -1,0 +1,5 @@
+{
+  "name": "Aerobridge Mission Planner",
+  "description": "A tactical air mission planning dashboard for visualizing, selecting, and validating Course of Action (COA) recommendations based on multi-objective optimization.",
+  "requestFramePermissions": []
+}
